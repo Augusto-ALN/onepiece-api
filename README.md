@@ -58,6 +58,8 @@ $ npm start
 	 - `GET` Retorna uma organização especificada pelo ID.
     - `DELETE`Deleta uma organização especificada pelo ID.
 
+### Requisições
+Importe o arquivo requests.json para um client HTTP (Testado apenas em Insomnia).
 ### Schemas
 #### Personagem
 ```JSON
